@@ -4,7 +4,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
-##Context
+## Context
 CRUD application with Quarkus that write HTTP Services and interact with a PostgreSql database deployed on Docker container, 
 process the result, and write the HTTP response.
 
